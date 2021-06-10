@@ -1,2 +1,2 @@
 # Hizmetlerim
-Kısımda hizmetlerim hakkında özet bilgiler bulacaksınız.
+Bu kısımda hizmetlerim hakkında özet bilgiler bulacaksınız.
