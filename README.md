@@ -10,5 +10,5 @@ https://www.r10.net/referansli-coin-sistemler/2757189-kendi-kullandigim-kripto-p
 Repo içeriği;
 
 - Bir adet türkçe manual (le trader bot kullanımı ve sinyal sitesi ayarlarının kapsamlı anlatımı).
-- Mininghamster sitesine özel hazırlanmış + coinmarketcap ilk 200 coin ile oluşturulmuş beyaz liste. [BİNANCE GLOBAL - USDT MARKET]
-- Mininghamster sitesine özel hazırlanmış kara liste. [BİNANCE GLOBAL - USDT MARKET]
+- Özel hazırlanmış + coinmarketcap ilk 200 coin ile oluşturulmuş beyaz liste. [BİNANCE GLOBAL - USDT MARKET]
+- Özel hazırlanmış kara liste. [BİNANCE GLOBAL - USDT MARKET]
